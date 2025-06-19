@@ -186,7 +186,7 @@ dotnet run --project UmbracoBridge
 }
 
 Base url port should be the same as UmbracoCMS port.
-```
+
 
 ## 📄 Logging UmbracoCMS
 
@@ -197,3 +197,5 @@ Base url port should be the same as UmbracoCMS port.
 
 dotnet build
 dotnet run UmbracoMorgana.sln
+```
+
