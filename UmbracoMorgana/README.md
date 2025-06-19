@@ -188,6 +188,11 @@ dotnet run --project UmbracoBridge
 Base url port should be the same as UmbracoCMS port.
 ```
 
+## 📄 Logging UmbracoCMS
+
+    user: victor.lopez@globant.com
+    password: corrientes3482!!
+
 ## 📄 Running the Solution
 
 dotnet build
