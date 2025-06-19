@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoMorgana", "UmbracoMorgana.csproj", "{C285EF69-8DE6-6D6A-193A-3493F7D6E7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoBridge.API", "..\UmbracoBridge\UmbracoBridge.API.csproj", "{582086C4-A02C-4938-2EE1-043120EF1BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoBridge.Application", "..\UmbracoBridge.Application\UmbracoBridge.Application.csproj", "{CA175943-889D-64C1-B4B6-BA37B8DD40E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoBridge.Domain", "..\UmbracoBridge.Domain\UmbracoBridge.Domain.csproj", "{7F8CC2A8-7E83-E855-8F2B-D1B0AE859206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoBridge.Infrastructure", "..\UmbracoBridge.Infrastructure\UmbracoBridge.Infrastructure.csproj", "{27393C0D-9767-E0ED-5CFE-E0DAC36CFE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoBridgeTests", "..\UmbracoBridgeTests\UmbracoBridgeTests.csproj", "{522EF179-BF71-66EA-CD2A-85DDD234B6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C285EF69-8DE6-6D6A-193A-3493F7D6E7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C285EF69-8DE6-6D6A-193A-3493F7D6E7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C285EF69-8DE6-6D6A-193A-3493F7D6E7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C285EF69-8DE6-6D6A-193A-3493F7D6E7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582086C4-A02C-4938-2EE1-043120EF1BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582086C4-A02C-4938-2EE1-043120EF1BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582086C4-A02C-4938-2EE1-043120EF1BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582086C4-A02C-4938-2EE1-043120EF1BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA175943-889D-64C1-B4B6-BA37B8DD40E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA175943-889D-64C1-B4B6-BA37B8DD40E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA175943-889D-64C1-B4B6-BA37B8DD40E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA175943-889D-64C1-B4B6-BA37B8DD40E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8CC2A8-7E83-E855-8F2B-D1B0AE859206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CC2A8-7E83-E855-8F2B-D1B0AE859206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CC2A8-7E83-E855-8F2B-D1B0AE859206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CC2A8-7E83-E855-8F2B-D1B0AE859206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27393C0D-9767-E0ED-5CFE-E0DAC36CFE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27393C0D-9767-E0ED-5CFE-E0DAC36CFE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27393C0D-9767-E0ED-5CFE-E0DAC36CFE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27393C0D-9767-E0ED-5CFE-E0DAC36CFE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522EF179-BF71-66EA-CD2A-85DDD234B6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522EF179-BF71-66EA-CD2A-85DDD234B6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522EF179-BF71-66EA-CD2A-85DDD234B6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522EF179-BF71-66EA-CD2A-85DDD234B6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB050439-8EB0-46BC-B812-D75309F9A32B}
+	EndGlobalSection
+EndGlobal

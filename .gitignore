@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/build/
+/bin/
+/obj/
+/UmbracoBridge/bin/Debug/net9.0
+/UmbracoBridge/obj
+/UmbracoBridge.Application/obj
+/UmbracoBridge.Domain/bin/Debug/net9.0
+/UmbracoBridge.Domain/obj
+/UmbracoBridge.Infrastructure/bin/Debug/net9.0
+/UmbracoBridge.Infrastructure/obj
+/UmbracoBridgeTests/bin
+/UmbracoBridgeTests/obj
+/UmbracoBridge.Application/bin/Debug/net9.0
