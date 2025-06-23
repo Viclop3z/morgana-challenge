@@ -190,7 +190,7 @@ Base url port should be the same as UmbracoCMS port.
 
 ## 📄 Logging UmbracoCMS
 
-    user: victor.lopez@globant.com
+    user: torvic2009@gmail.com
     password: corrientes3482!!
 
 ## 📄 Running the Solution
